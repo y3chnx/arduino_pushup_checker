@@ -2,7 +2,7 @@
 
 > Push Up Checker with Arduino UNO
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-C++-yellow) ![Framework](https://img.shields.io/badge/framework-Arduino-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/arduino_pushup_checker-black?logo=github) ![Build Status](https://img.shields.io/github/actions/workflow/status/y3chnx/arduino_pushup_checker/ci.yml?branch=main)
+![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-C++-yellow) ![Framework](https://img.shields.io/badge/framework-Arduino-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/arduino_pushup_checker-black?logo=github)
 
 ## 📋 Table of Contents
 
