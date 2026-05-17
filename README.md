@@ -31,4 +31,4 @@ Make the hardware like those pictures, and upload [.ino](pushup_counting.ino) fi
 ## Usage
 
 You can use this project like this:
-[![Push Up Checking!!](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Push Up Checking!!](https://img.youtube.com/vi/QmqZKL7Ee1o/maxresdefault.jpg)](https://www.youtube.com/watch?v=QmqZKL7Ee1o)
