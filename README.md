@@ -32,3 +32,6 @@ Make the hardware like those pictures, and upload [.ino](pushup_counting.ino) fi
 
 You can use this project like this:
 [![Push Up Checking!!](https://img.youtube.com/vi/QmqZKL7Ee1o/maxresdefault.jpg)](https://www.youtube.com/watch?v=QmqZKL7Ee1o)
+
+
+Click to see youtube video!!!
