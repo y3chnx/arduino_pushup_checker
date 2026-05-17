@@ -25,8 +25,8 @@
 
 Make the hardware like those pictures, and upload your .ino (C++) file using (Arduino Software)[https://www.arduino.cc/en/software/]
 <img src="instruction.jpg">
-<img src="picture1.heic">
-<img src="picture2.heic">
+<img src="picture1.HEIC">
+<img src="picture2.HEIC">
 
 ## Usage
 
