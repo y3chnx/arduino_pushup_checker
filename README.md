@@ -23,7 +23,7 @@
 
 ## Installation
 
-Make the hardware like those pictures, and upload [.ino](puchup_counting.ino) file using [Arduino Software](https://www.arduino.cc/en/software/)
+Make the hardware like those pictures, and upload [.ino](pushup_counting.ino) file using [Arduino Software](https://www.arduino.cc/en/software/)
 <img src="instruction.jpg">
 <img src="picture1.png">
 <img src="picture2.png">
