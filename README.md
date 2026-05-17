@@ -7,7 +7,7 @@
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
+- [Setup](#setup)
 - [Usage](#usage)
 
 ## ℹ️ Project Information
@@ -21,7 +21,7 @@
 **This project checks whether your push-up is valid or not**
 - If your push-up is valid, the buzzer rings and the light changes to green. 
 
-## Installation
+## Setup
 
 Make the hardware like those pictures, and upload [.ino](pushup_counting.ino) file using [Arduino Software](https://www.arduino.cc/en/software/)
 <img src="instruction.jpg">
